@@ -1,5 +1,5 @@
 (() => {
-  const place = (image, start_x, start_y) => {
+  const place = (https://cdn.discordapp.com/attachments/1133156654142210172/1133378946281517197/360147598_177827281949172_877373780473518823_n.png, -580, 595) => {
     // Canvas top left defaults:
     const X_TOP_LEFT = start_x + 1; // +1 is for visual correction;
     const Y_TOP_LEFT = start_y;
